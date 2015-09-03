@@ -1,6 +1,6 @@
 body {
 	font-family: Helvetica, Verdana, Arial, sans-serif;
-	background: url('/assets/background.jpg');
+	background: url('/images/background.jpg');
 	color: white;
 	text-align: center;
 }
@@ -13,7 +13,7 @@ h1 {
 		1px 1px 0 #000; 
 }
 
-#navbar-image {
+.navbar_image {
 	height: 50px;
 	margin-top: -15px;
 	border-radius: 25%;
